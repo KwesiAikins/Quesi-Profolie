@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+   background-color: black;
+}
+   
+body {
+  color: hotpink;
+}
+.navbar{
+  list-style-type: none;
+   margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content:center;
+  background-color: hotpink;
+}
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: black;
+}
+li a:hover{
+  background-color: white;
+}
+
+/* font-family: 'Raleway', sans-serif; */
+
+
+.container{
+  display:flex;
+}
+h2{
+  text-align: center;
+}
+  
